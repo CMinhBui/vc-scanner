@@ -1,0 +1,6 @@
+int main() {
+    int i = 3;
+    j = (i = 4) * i;
+    putIntLn(j);
+    putString("This is a String");
+}

@@ -1,0 +1,31 @@
+line: 0 column: 0	type: Keyword token: int
+line: 0 column: 4	type: Identifier token: main
+line: 0 column: 8	type: Separator token: (
+line: 0 column: 9	type: Separator token: )
+line: 0 column: 11	type: Separator token: {
+line: 1 column: 4	type: Keyword token: int
+line: 1 column: 8	type: Identifier token: i
+line: 1 column: 10	type: Assignment Operator token: =
+line: 1 column: 12	type: Integer literal token: 3
+line: 1 column: 13	type: Separator token: ;
+line: 2 column: 4	type: Identifier token: j
+line: 2 column: 6	type: Assignment Operator token: =
+line: 2 column: 8	type: Separator token: (
+line: 2 column: 9	type: Identifier token: i
+line: 2 column: 11	type: Assignment Operator token: =
+line: 2 column: 13	type: Integer literal token: 4
+line: 2 column: 14	type: Separator token: )
+line: 2 column: 16	type: Arithmetic Operator token: *
+line: 2 column: 18	type: Identifier token: i
+line: 2 column: 19	type: Separator token: ;
+line: 3 column: 4	type: Identifier token: putIntLn
+line: 3 column: 12	type: Separator token: (
+line: 3 column: 13	type: Identifier token: j
+line: 3 column: 14	type: Separator token: )
+line: 3 column: 15	type: Separator token: ;
+line: 4 column: 4	type: Identifier token: putString
+line: 4 column: 13	type: Separator token: (
+line: 4 column: 15	type: String literal token: This is a String
+line: 4 column: 32	type: Separator token: )
+line: 4 column: 33	type: Separator token: ;
+line: 5 column: 0	type: Separator token: }
